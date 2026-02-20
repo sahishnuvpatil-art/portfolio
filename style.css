@@ -394,4 +394,5 @@ a:focus, button:focus, input:focus, textarea:focus {
 .hide-on-mobile { display: inline-block; }
 @media (max-width:600px){ .hide-on-mobile{ display:none; } }
 
+
 /* end of extreme upgrade */
